@@ -1,0 +1,39 @@
+{
+    "results": [
+        {
+            "productName": "Dell-Latitude",
+            "category": "Laptop",
+            "description": "Dell Latitude E5450 i3 5th GEN 1 for business. RAM: 8GB, HDD: 1TB",
+            "amount": 20000.89,
+            "img_url": "https://postimg.cc/NLCRMgC2"
+        },
+        {
+            "productName": "Todo App",
+            "category": "Application",
+            "description": "Allow you to create, edit, delete, task including sorting tasks by ascending",
+            "amount": 30000.89,
+            "img_url": "https://codjoelmayer.github.io/allImages/images/todoapp.png"
+        },
+        {
+            "productName": "Python Programming",
+            "category": "Book",
+            "description": "Python Programming for Beginners",
+            "amount": 990.99,
+            "img_url": "https://postimg.cc/w3fFGrfK"
+        },
+        {
+            "productName": "C++",
+            "category": "Book",
+            "description": "Mastering C++ Programming",
+            "amount": 1000,
+            "img_url": "https://postimg.cc/wy6vqZPL"
+        },
+        {
+            "productName": "HP Elite",
+            "category": "Laptop",
+            "description": "HP Elite Book Intel Core i5 1135G7 SSD 256GB  RAM 8GB",
+            "amount": 15000,
+            "img_url": "https://postimg.cc/V5grnCCM"
+        }
+    ]
+}
